@@ -35,3 +35,6 @@ Aplicação full-stack para gerenciamento e controle de chamados técnicos, dese
 ├── sistema-chamados/          # Projeto Back-end (Spring Boot)
 ├── sistema-chamados-frontend/ # Projeto Front-end (HTML, JS, CSS)
 └── iniciar-backend.bat        # Script de inicialização rápida no Windows
+
+👤 Autor
+Desenvolvido por Marcos - Sinta-se à vontade para contribuir ou enviar feedbacks!
