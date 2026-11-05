@@ -7,7 +7,7 @@ Aplicação full-stack para gerenciamento e controle de chamados técnicos, dese
 ## 🚀 Tecnologias Utilizadas
 
 ### Back-end
-* **Java 17**
+* **Java 21**
 * **Spring Boot 3** (Spring Data JPA, Spring Web)
 * **H2 Database** (Banco em memória)
 * **Maven Wrapper**
